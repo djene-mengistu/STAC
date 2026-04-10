@@ -1,0 +1,6 @@
+0 background
+1 Blowhole
+2 Break
+3 Crack
+4 Fray
+5 Uneven
