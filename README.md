@@ -88,13 +88,28 @@ The proposed STAC framework consists of three major components:
 ![Visualization neu](./figs/neu11.jpg)
 ![Visualization mtd-dagm](./figs/mtddagm.jpg)
 
+# 🏗️ Segmentation Results 
+![Visualization mtd-dagm](./figs/segtab.jpg)
+
 # 🏗️ Resutls MVTEc
-![results-mtd-dagm-seg](./figs/tab23.jpg)
+![results-mtd-dagm-seg](./figs/mvtectab.jpg)
 ![Visualization MVTEc](./figs/mvtec.jpg)
 
 # 🏗️ PASCAL VOC2012
-
 ![PACAL VOC2012](./figs/tab2.jpg)
 ![PACAL VOC2012](./figs/pascalvoc.jpg)
+
+# 🏗️ Complexity
+![complexity](./figs/complexity.jpg)
+
+## 📬 Contact
+For questions, collaborations, or further discussion regarding this work, please feel free to reach out:
+
+📧 Email: djene.mengistu@gmail.com  
+🌐 GitHub: https://github.com/djene-mengistu  
+---
+
+We welcome feedback, suggestions, and collaboration opportunities in industrial AI and weakly supervised learning research.
+
 
 ```markdown
