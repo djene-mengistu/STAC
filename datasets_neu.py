@@ -23,7 +23,7 @@ def load_img_name_list(dataset_path):
 
 def load_image_label_list_from_npy(img_name_list, label_file_path=None):
     if label_file_path is None:
-        label_file_path = 'C:/Users/djmen/Desktop/STAC/neu_seg/cls_labels_all_images.npy'
+        label_file_path = './STAC/neu_seg/cls_labels_all_images.npy'
     cls_labels_dict = np.load(label_file_path, allow_pickle=True).item()
     label_list = []
     for id in img_name_list:
