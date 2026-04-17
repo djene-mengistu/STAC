@@ -15,6 +15,7 @@ Extensive experiments and ablation studies demonstrate that **STAC consistently 
 # 🚀 Full paper source:
 Details and specific analysis is found at : ([https://ieeexplore.ieee.org/document/9994033](https://ieeexplore.ieee.org/document/11354152))
 
+⭐ [Please Star this repo](https://github.com/djene-mengistu/STAC)
 🔥 If you find it useful, please cite ourwork as follows:
 ```
 @ARTICLE{STAC,
@@ -41,6 +42,7 @@ Follow the steps below to reproduce the results.
 4️⃣ Apply to Different Datasets: Follow same procedure for all datasets
 
 ---
+
 
 # 📌 Overview
 
